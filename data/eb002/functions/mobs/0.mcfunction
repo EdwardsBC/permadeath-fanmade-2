@@ -1,0 +1,1 @@
+data merge entity @e[type=minecraft:skeleton,limit=1,sort=nearest,tag=] {Tags:["found"],HandItems:[{id:"minecraft:bow",Count:1b,tag:{RepairCost:9999,Enchantments:[{id:"minecraft:power",lvl:2s}]}},{}],HandDropChances:[0.000F,0.00F]}
